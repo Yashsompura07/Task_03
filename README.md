@@ -63,7 +63,7 @@ This project builds and compares multiple ML models to accurately predict car pr
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/car-price-prediction.git
+git clone https://github.com/Yashsompura07/car-price-prediction.git
 cd car-price-prediction
 ```
 
@@ -436,9 +436,7 @@ MIT License - feel free to use for education and projects
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Internship: [Company Name]
+- GitHub: https://github.com/Yashsompura07
 
 ---
 
@@ -471,14 +469,6 @@ This project teaches:
 - ✅ Making predictions on new data
 - ✅ Feature importance analysis
 - ✅ Residual analysis
-
----
-
-## 📞 Support
-
-- Open GitHub issues for bugs
-- Check documentation first
-- Review example_usage.py for help
 
 ---
 
