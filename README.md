@@ -435,7 +435,7 @@ MIT License - feel free to use for education and projects
 
 ## 👤 Author
 
-**Your Name**
+**Yash Sompura**
 - GitHub: https://github.com/Yashsompura07
 
 ---
